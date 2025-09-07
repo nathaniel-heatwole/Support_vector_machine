@@ -1,5 +1,0 @@
-SUPPORT VECTOR MACHINE SUMMARY
-              from scratch  sklearn
-slope                0.250    0.250
-intercept            3.730    3.731
-margin width         1.717    1.717
